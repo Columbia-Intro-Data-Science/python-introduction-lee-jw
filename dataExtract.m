@@ -9,16 +9,16 @@ for i = 1:length(idx_titles)-1
     projects = [projects text(idx_titles(i)-1:idx_titles(i+1)-5)];
 end
 
-title = string([]);
-slug = string([]);
-url = string([]);
-ico_type = string([]);
-category = string([]);
-rating = string([]);
-pre_ico_start = string([]);
-pre_ico_end = string([]);
-ico_start = string([]);
-ico_end = string([]);
+title = string(['title']);
+slug = string(['slug']);
+url = string(['url']);
+ico_type = string(['ico_type']);
+category = string(['category']);
+rating = string(['rating']);
+pre_ico_start = string(['pre_ico_start']);
+pre_ico_end = string(['pre_ico_end']);
+ico_start = string(['ico_start']);
+ico_end = string(['ico_end']);
 
 % Extract features
 for i = 1:length(projects)
