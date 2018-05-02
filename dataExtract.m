@@ -54,7 +54,7 @@ end
 % Combine all data into matrix and export as csv file
 data = [title', slug', url', ico_type', category', rating', pre_ico_start', pre_ico_end', ico_start', ico_end'];
 
-data_trading = [];
+data_trading = data;
 for i = 1:length(projects)
     if ico_type(i) == 'Trading'
         data_trading = [data_trading; data(i,:)];
