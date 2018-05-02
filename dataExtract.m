@@ -53,8 +53,22 @@ end
 
 % Combine all data into matrix and export as csv file
 data = [title', slug', url', ico_type', category', rating', pre_ico_start', pre_ico_end', ico_start', ico_end'];
+
+data_trading = [];
+for i = 1:length(projects)
+    if ico_type(i) == 'Trading'
+        data_trading = [data_trading; data(i,:)];
+    end
+end
+        
 fid = fopen('data.csv', 'w');
 for k = 1:length(data)
-    fprintf(fid,'%s, %s, %s, %s, %s, %s, %s, %s, %s, %s\n',data{k,:});
+	fprintf(fid,'%s,%s,%s,%s,%s,%s,%s,%s,%s,%s\n',data{k,:});
 end
 fclose(fid)
+
+fid2 = fopen('data_trading.csv', 'w');
+for l = 1:length(data_trading)
+	fprintf(fid,'%s,%s,%s,%s,%s,%s,%s,%s,%s,%s\n',data_trading{l,:});
+end
+fclose(fid2)
