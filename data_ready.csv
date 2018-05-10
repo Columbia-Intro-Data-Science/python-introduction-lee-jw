@@ -1,0 +1,140 @@
+﻿title,slug,ticker,platform,origin,token_price_in_usd,total_raised_in_usd,whitelist_required,alexa_global_rank,twitter_participants,telegram_members,rating
+0x,0x,ZRX,Ethereum,Americas,0.048,24000000,TRUE,94140,114978,5329,4.3
+1World,1world,1WO,Ethereum,Americas,1.2,11000000,TRUE,368823,7672,7485,4.3
+Adbank,adbank,ADB,Ethereum,Americas,0.0465,14000000,TRUE,585009,4461,5232,4.4
+Adelphoi,adelphoi,ADL,Other,Europe,0.03,1094622,FALSE,2782070,4391,326,4.4
+AdHive,adhive,ADH,Ethereum,Europe,0.17,17500000,TRUE,135267,3783,17191,4.3
+Aditus,aditus,ADI,Ethereum,Asia,0.015778209,7100194,FALSE,969470,12200,14410,3.3
+adToken,adtoken,ADT,Ethereum,Europe,0.02,10000000,FALSE,778643,6514,0,2.2
+aeternity,aeternity,AE,Ethereum,Europe,0.109987552,24990653,FALSE,214696,592,9700,3.9
+Agrello,agrello,DLT,Ethereum,Europe,0.43,30100000,TRUE,393414,14598,4712,4.1
+Aphelion,aphelion,APH,NEO,Europe,0.2,6700000,TRUE,610901,13900,13983,4.1
+ArcBlock,arcblock,ABT,Ethereum,Americas,0.5,45000000,TRUE,70413,31025,40086,4.8
+Augur,augur,REP,Ethereum,Americas,0.481818182,5300000,TRUE,175874,8490,1677,4.4
+B2BX,b2bx,B2B,Ethereum,Asia,0.74,9544348,FALSE,781158,3924,1925,3.7
+BANCOR Network,bancor-network,BNT,Ethereum,Europe,3.86,153000000,FALSE,68621,773,5987,4.6
+Beluga Pay,beluga-pay,BBI,Ethereum,Americas,0.065,6500000,TRUE,294334,2952,12263,4.1
+Bibox,bibox,BIX,Ethereum,Americas,0.17,4434555,FALSE,27761,9172,20331,3.5
+BitRent,bitrent,RNTB,Ethereum,Europe,0.020910951,14627210,FALSE,734440,4546,9729,4.1
+BlitzPredict,blitzpredict,XBP,Ethereum,Americas,0.0292,5000000,TRUE,571286,19887,467,4.4
+BlockCAT,blockcat,CAT,Ethereum,Americas,0.88,7034927,TRUE,871741,7901,904,4.3
+Blockpay,blockpay,BLOCKPAY,Other,Europe,8.4375,675000,FALSE,19704398,51,526,1.9
+Bloom,bloom,BLT,Ethereum,Americas,1.16,43767115,FALSE,418821,419,14307,3.1
+Bluzelle,bluzelle,BLZ,Ethereum,Asia,0.12,19500000,FALSE,164661,31064,23755,3.7
+BnkToTheFuture,bnktothefuture,BFT,Ethereum,Europe,0.1,33000000,TRUE,90446,14154,2727,4.3
+Bottos,bottos,BTO,Ethereum,Asia,0.11,34100000,TRUE,594540,5288,3511,3.3
+bounty0x,bounty0x,BNTY,Ethereum,Europe,0.0165,1500000,FALSE,166372,13817,5990,2.4
+Cappasity,cappasity,CAPP,Ethereum,Asia,0.01,5100000,TRUE,1167505,8726,62580,4.6
+carVertical,carvertical,cV,Ethereum,Europe,0.0055,19941250,TRUE,246001,13060,13646,5
+CFun,cfun,CFUN,Other,Asia,0.03,15000000,FALSE,2311003,5747,43999,3.7
+ClearCoin,clearcoin,CLR,Ethereum,Americas,0.01,4350000,FALSE,177826,11266,27268,5
+ClearPoll,clearpoll,POLL,Ethereum,Asia,0.13,870000,FALSE,717169,6839,825,3.3
+CoinDash,coindash,CDT,Ethereum,Asia,0.00754338,7543380,FALSE,375694,462,2466,4.1
+CoinFi,coinfi,COFI,Ethereum,Asia,0.15,15000000,TRUE,272546,4892,20364,4.6
+Coinlancer,coinlancer,CL,Ethereum,Asia,0.25,11860153,TRUE,661261,3459,7430,4.8
+CoinStarter,coinstarter,STAC,Ethereum,Europe,0.2,8515463,FALSE,93575,4861,7080,4.4
+COMSA,comsa,CMS,Other,Asia,1,95372124,FALSE,276440,8778,4172,3.3
+Corion Platform,corion-platform,COR,Ethereum,Europe,1,3123000,FALSE,2146028,1720,679,4.3
+COSS,coss,COSS,Ethereum,Asia,0.56,3168713,FALSE,37218,17783,4738,3.5
+Covesting,covesting,COV,Ethereum,Europe,1.44,18800000,FALSE,226125,10207,9031,4.3
+Cybermiles,cybermiles,CMT,Ethereum,Americas,0.0524,32030393,FALSE,81322,218631,86944,3.5
+DADI,dadi,DADI,Ethereum,Europe,0.5,29000000,TRUE,155203,24053,413,5
+Darcrus,darcrus,MER,Other,Europe,0.00594852,297426,FALSE,764012,9486,1477,2.8
+Datum,datum,DAT,Ethereum,Europe,0.004705882,7200000,FALSE,264575,36996,8382,4.1
+Debitum Network,debitum-network,DEB,Ethereum,Europe,0.26,17200000,TRUE,102132,8202,14803,5
+Dether,dether,DTH,Ethereum,Europe,0.23,13440000,FALSE,281296,8007,7212,4.6
+district0x,district0x,DNT,Ethereum,Americas,0.0152,9789541,FALSE,242004,57700,5329,4.4
+dock.io,dockio,DOCK,Ethereum,Americas,0.0833,20000000,TRUE,21631,44377,65493,4.1
+DomRaider,domraider,DRT,Ethereum,Europe,0.12,65771440,FALSE,3285130,8099,76,4.3
+Dragonchain,dragonchain,DRGN,Ethereum,Americas,0.0663,13457071,TRUE,140568,71652,13320,4.4
+Edgeless,edgeless,EDG,Ethereum,Europe,0.04,2700000,FALSE,541191,39706,823,3.1
+EFFECT.AI,effectai,AIX,NEO,Europe,0.050949719,13246927,TRUE,133342,10292,23168,4.6
+Electrify.Asia,electrifyasia,ELEC,Ethereum,Asia,0.08,30000000,TRUE,250622,5638,9608,4.3
+Embermine,embermine,MBRS,Other,Americas,0.0004,80000,TRUE,2664620,3181,1049,3.7
+Ethbits,ethbits,ETBS,Ethereum,Europe,1.14,1259489,FALSE,1355135,5493,513,3.9
+Etheriya,etheriya,RIYA,Ethereum,Asia,0.003,300000,FALSE,11696065,590,0,1.9
+FidentiaX,fidentiax,FDX,Ethereum,Asia,0.0289,1566283,FALSE,2213320,3922,2511,4.6
+Filecoin,filecoin,FIL,Ethereum,Americas,5,205800000,FALSE,172080,21647,966,3.3
+Flixxo,flixxo,FLIXX,Ethereum,Americas,0.0934,4829000,FALSE,762438,6156,3777,4.1
+FluzFluz,fluzfluz,FLUZ,Ethereum,Europe,0.1,20478000,FALSE,567483,8442,3121,4.3
+Flyp.me,flypme,FYP,Ethereum,Europe,0.07,1140422,FALSE,544479,3222,1554,3.5
+Fusion,fusion,FSN,Ethereum,Asia,2.06,42200000,FALSE,209598,11942,9977,3.9
+Gatcoin,gatcoin,GAT,Ethereum,Asia,0.0318,14500000,FALSE,568984,4351,4060,4.8
+Global Jobcoin,global-jobcoin,GJC,Ethereum,Europe,1.25,189898,FALSE,882933,12067,0,4.1
+Gnosis,gnosis,GNO,Ethereum,Europe,29.85,12500000,FALSE,246665,66539,882,4.3
+Golem,golem,GNT,Ethereum,Europe,0.01,8596000,FALSE,128076,134543,40,4.3
+GUTS Tickets,guts-tickets,GET,Ethereum,Europe,0.203252033,7500000,FALSE,784913,19722,5982,3.7
+HOQU,hoqu,HQX,Ethereum,Europe,0.22,18782400,FALSE,130487,6220,15318,5
+Humaniq,humaniq,HMQ,Ethereum,Europe,0.06,5163000,TRUE,3331639,491,882,3.9
+Iconomi,iconomi,ICN,Ethereum,Europe,0.11,10682516,FALSE,128763,49599,2461,3.9
+iExec,iexec,RLC,Ethereum,Europe,0.25,12000000,FALSE,353940,21586,2009,5
+indaHash,indahash,IDH,Ethereum,Europe,0.21,42715825,FALSE,267418,9947,12151,4.6
+INS,ins,INS,Ethereum,Asia,1.5,45000000,FALSE,254173,18752,18176,4.6
+InsurePal,insurepal,IPL,Ethereum,Europe,0.1,18000000,TRUE,732026,9865,6649,4.4
+IP Exchange,ip-exchange,IPSX,Ethereum,Europe,0.0122,7904000,TRUE,334661,2761,5873,4.6
+KICKICO,kickico,KICK,Ethereum,Asia,0.085,21581925,FALSE,187363,10948,5920,4.6
+Komodo,komodo,KMD,Other,Americas,0.022,1983781,FALSE,141959,86480,1671,2.4
+Lamden,lamden,TAU,Ethereum,Europe,0.091,10000000,FALSE,399625,12118,1500,5
+Lampix,lampix,PIX,Ethereum,Americas,0.11,12172472,FALSE,2202627,3307,1551,4.3
+Leverj,leverj,LEV,Ethereum,Americas,0.15,22623538,TRUE,2056029,5039,3851,4.3
+Loci Coin,loci-coin,LOCI,Ethereum,Americas,0.75,7673960,FALSE,602140,6735,3368,4.8
+Loopring,loopring,LRC,Ethereum,Asia,0.06,45000000,FALSE,196630,26279,2613,2.4
+Lunyr,lunyr,LUN,Ethereum,Americas,1.61,3400000,FALSE,247176,33072,3444,3.3
+Maecenas,maecenas,ART,Ethereum,Europe,0.66,15660106,FALSE,989505,2163,880,3.9
+MARK.SPACE,markspace,MRK,Ethereum,Asia,0.1,10650000,FALSE,47912,2918,5620,4.8
+Matchpool,matchpool,GUP,Ethereum,Asia,0.095,5700000,FALSE,13942412,36032,2250,3.7
+Matryx,matryx,MTX,Ethereum,Americas,0.29,4544937,FALSE,1185114,2127,1568,4.3
+MediBloc,medibloc,MED,Other,Europe,0.0088,21014141,FALSE,603737,7984,5126,4.4
+Napoleon X,napoleon-x,NPX,Ethereum,Europe,0.85,12450000,TRUE,202937,5575,6789,4.8
+NEO,neo,NEO,NEO,Asia,0.2,556550,TRUE,41281,316952,15687,5
+Neufund,neufund,NEU,Ethereum,Europe,0.36,14790679,FALSE,7368931,3010,1472,4.4
+Nitro,nitro,NOX,Ethereum,Europe,0.97,2724589,FALSE,788895,3790,17815,3.7
+Nucleus,nucleus,NCASH,Ethereum,Americas,0.00375,15000000,TRUE,103712,59470,85564,4.1
+NVO,nvo,NVST,Ethereum,Americas,0.519869467,7798042,FALSE,1455737,2716,561,4.3
+Obsidian Platform,obsidian-platform,ODN,Ethereum,Europe,0.15,1566332,FALSE,806505,8960,834,3.9
+ODEM,odem,ODE,Ethereum,Europe,0.06,6900000,FALSE,294859,3104,8815,4.6
+Origami Network,origami-network,ORI,Ethereum,Europe,0.1,228197,TRUE,614675,630,187,3.9
+OriginTrail,origintrail,TRAC,Ethereum,Europe,0.1,22500000,FALSE,203920,10575,9419,5
+ParagonCoin,paragoncoin,PRG,Ethereum,Americas,0.5,50000000,FALSE,650501,4361,1407,4.6
+Patientory,patientory,PTOY,Ethereum,Americas,0.072,7200000,FALSE,1085395,21261,74,3.9
+Payfair,payfair,PFR,Ethereum,Asia,0.00422,213788,FALSE,416163,2246,2538,3.7
+PayPie,paypie,PPP,Ethereum,Americas,0.34,26000000,FALSE,452193,7583,4208,3.3
+peerguess,peerguess,GUESS,Ethereum,Europe,0.06,812765,FALSE,4401073,2013,999,3.1
+PolySwarm,polyswarm,NCT,Ethereum,Americas,0.0165,25940000,TRUE,133372,4144,8013,4.8
+Publica,publica,PBL,Ethereum,Europe,0.1,1049209,FALSE,11714405,8905,2419,4.6
+Pundi X,pundi-x,PSX,Ethereum,Asia,2.13,35000000,FALSE,159599,21422,18450,4.1
+QASH by Quoine,qash-by-quoine,QASH,Ethereum,Asia,0.31,105000000,FALSE,382480,19745,17613,4.1
+Refereum,refereum,RFR,Ethereum,Americas,0.021,27800000,FALSE,26297,53956,232921,4.6
+REMME,remme,REM,Ethereum,Asia,0.04,17600000,FALSE,158043,5394,17444,4.6
+SETHER,sether,SETH,Ethereum,Europe,0.094983636,5224100,FALSE,10193487,11110,7184,4.8
+SingularDTV,singulardtv,SNGLS,Ethereum,Americas,0.015,7500000,FALSE,429967,25827,902,3.5
+SmartMesh,smartmesh,SMT,Ethereum,Asia,0.0167,15691200,FALSE,812584,3531,4355,3.5
+SophiaTX,sophiatx,SPHTX,Ethereum,Europe,0.0716,22018607,FALSE,459194,14968,5311,4.6
+Speed Mining Service,speed-mining-service,SMS,Ethereum,Asia,237.49,35623500,FALSE,1858571,341,0,3
+Sphre AIR,sphre-air,XID,Ethereum,Europe,0.3,5109781,FALSE,15424855,1,317,2.8
+Storiqa,storiqa,STQ,Ethereum,Asia,0.007,25000000,FALSE,51354,9616,29284,4.3
+Storj,storj,STORJ,Ethereum,Americas,0.5,30000000,TRUE,75992,82368,1763,4.4
+SureRemit,sureremit,RMT,Other,Americas,0.02,10000000,FALSE,728632,4376,2063,3.1
+SyncFab,syncfab,MFG,Ethereum,Americas,0.030519057,9155717,FALSE,167576,8307,10635,5
+Synereo,synereo,AMP,Ethereum,Asia,0.1597,4700000,FALSE,323969,26801,2674,3.5
+Tierion,tierion,TNT,Ethereum,Americas,0.071,25000000,TRUE,415451,16880,4487,4.1
+Time New Bank,time-new-bank,TNB,Ethereum,Asia,0.0171,14416000,FALSE,495730,14430,20461,3.1
+Tokenbox,tokenbox,TBX,Ethereum,Asia,1,7334268,FALSE,1740733,2423,2065,4.1
+Tokenomy,tokenomy,TEN,Ethereum,Asia,0.236363636,26000000,FALSE,320214,26,7657,4.6
+tokens.net,tokensnet,DTR,Ethereum,Europe,0.01,15000000,FALSE,623166,1783,0,3.5
+Universa,universa,UTNP,Ethereum,Asia,0.01,28724497,FALSE,102026,10604,14388,3.3
+UQUID Eco System,uquid-eco-system,UQC,Ethereum,Europe,5,17700000,FALSE,1490459,17724,0,2.4
+UTRUST,utrust,UTK,Ethereum,Europe,0.065,19375000,FALSE,271194,27989,13283,4.3
+Verify,verify,CRED,Ethereum,Asia,0.23,2500000,FALSE,949308,7587,3569,4.3
+VOISE,voise,VOISE,Ethereum,Europe,1.77,646519,FALSE,565502,29,8129,3
+Wagerr,wagerr,WGR,Other,Americas,0.055,10837500,FALSE,351515,17021,2276,3.1
+WePower,wepower,WPR,Ethereum,Europe,0.13,40000000,TRUE,151576,35125,55158,5
+WeTrust,wetrust,TRST,Ethereum,Americas,0.0625,5000000,FALSE,443803,18650,2176,4.4
+Wings,wings,WINGS,Ethereum,Europe,0.02074,2074000,TRUE,475578,38729,4540,3.1
+WorldCore,worldcore,WRC,Ethereum,Europe,0.1,26283200,TRUE,861002,11649,3002,3.9
+Worldwide Asset eXchange,worldwide-asset-exchange,WAX,Ethereum,Europe,2.05,80000000,TRUE,182518,15535,5352,4.4
+YOYOW,yoyow,YOYOW,Ethereum,Asia,0.02,4364760,FALSE,320388,8543,3289,4.3
+Zeepin,zeepin,ZPT,NEO,Asia,0.13,62600000,TRUE,272416,44594,21551,4.4
+ZenGold,zengold,ZENGOLD,Other,Asia,0.06984,4399996,FALSE,5296553,370,237,1.3
+ZILLA,zilla,ZIL,Ethereum,Asia,0.8,13500000,FALSE,194718,3637,3912,4.3
+Zilliqa,zilliqa,ZIL,Ethereum,Asia,0.0038,22000000,TRUE,93164,32830,26075,3.9
